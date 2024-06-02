@@ -12,12 +12,13 @@ public class ArmadaLaut {
         Pelaut pelaut2 = new Pelaut("First Mate Smith", kapalDagang);
 
         // Menampilkan detail pelaut dan kapal yang dinaikinya
-        System.out.println("Detail Pelaut 1:");
+        System.out.println("Detail Pelaut 11:");
         pelaut1.display();
         System.out.println();
 
-        System.out.println("Detail Pelaut 2:");
+        System.out.println("Detail Pelaut 22:");
         pelaut2.display();
+        
     }
 
 }
